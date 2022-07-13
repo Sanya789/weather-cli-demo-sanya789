@@ -1,0 +1,26 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Alex Dmitriev",
+  "license": "ISC",
+  "homepage": "https://www.google.ru/",
+  "repository": {
+    "type": "git",
+    "url": "https://www.google.ru/"
+  },
+  "bugs": {
+    "url": "https://www.google.ru/",
+    "email": "alexandr_dmtriev@mail.ru"
+  }
+}
