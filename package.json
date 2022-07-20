@@ -17,13 +17,13 @@
   ],
   "author": "Alex Dmitriev",
   "license": "ISC",
-  "homepage": "https://www.google.ru/",
+  "homepage": "https://github.com/Sanya789",
   "repository": {
     "type": "git",
-    "url": "https://www.google.ru/"
+    "url": "https://github.com/Sanya789/weather-cli-demo-sanya789"
   },
   "bugs": {
-    "url": "https://www.google.ru/",
+    "url": "https://github.com/Sanya789/weather-cli-demo-sanya789",
     "email": "alexandr_dmtriev@mail.ru"
   },
   "dependencies": {
